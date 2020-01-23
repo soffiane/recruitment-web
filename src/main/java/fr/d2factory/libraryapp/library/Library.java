@@ -1,6 +1,7 @@
 package fr.d2factory.libraryapp.library;
 
 import fr.d2factory.libraryapp.book.Book;
+import fr.d2factory.libraryapp.exception.HasLateBooksException;
 import fr.d2factory.libraryapp.member.Member;
 
 import java.time.LocalDate;
